@@ -1,4 +1,4 @@
-# Bug Report Example
+# Bug Report 
 
 **Bug ID:** BUG-001  
 **Title:** App crashes after clicking 'Submit' on empty form  
