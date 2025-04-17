@@ -1,4 +1,4 @@
-# Sample Test Cases
+# Test Case
 
 ## Test Case 001 - Login Function
 - **Title:** Check login with correct email and password  
